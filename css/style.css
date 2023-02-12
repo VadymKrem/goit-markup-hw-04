@@ -334,7 +334,7 @@ body {
   border-radius: 4px;
   width: 168px;
   height: 88px;
-  fill: var(--color-icon) #8e8f99;
+  fill: var(--color-icon);
 }
 .customers-link:is(:hover, :focus) {
   fill: var(--color-address);
