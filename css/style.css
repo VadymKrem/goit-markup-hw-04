@@ -386,7 +386,7 @@ body {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #ffffff;
+  color: var(--color-background);
 }
 
 .footer-list {
@@ -398,6 +398,7 @@ body {
 .footer-item {
   width: 40px;
   height: 40px;
+  color: var(--color-background);
 }
 .footer-icon {
   width: 24px;
